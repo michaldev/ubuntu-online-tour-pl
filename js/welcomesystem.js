@@ -113,7 +113,7 @@ function WelcomeSystem($parent){
 			_parent.errorMessage.open();
 		});
 		$('#tour-guide .explore-to-exit').bind('click',function(){
-			window.location.replace("http://www.ubuntu.com");
+			window.location.replace("http://www.ubuntupolska.pl");
 		})
 		/*if($('#tour-guide').is(':visible')){
 			$('.explore-to-welcome').css('bottom',210);
